@@ -1,0 +1,6 @@
+D:\NBU\c#nbu\NBU_RPG\NBU_RPG\bin\Debug\NBU_RPG.exe.config
+D:\NBU\c#nbu\NBU_RPG\NBU_RPG\bin\Debug\NBU_RPG.exe
+D:\NBU\c#nbu\NBU_RPG\NBU_RPG\bin\Debug\NBU_RPG.pdb
+D:\NBU\c#nbu\NBU_RPG\NBU_RPG\obj\Debug\NBU_RPG.csprojResolveAssemblyReference.cache
+D:\NBU\c#nbu\NBU_RPG\NBU_RPG\obj\Debug\NBU_RPG.exe
+D:\NBU\c#nbu\NBU_RPG\NBU_RPG\obj\Debug\NBU_RPG.pdb
